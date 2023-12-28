@@ -1,0 +1,2 @@
+#include "HourlyForecast.h"
+
